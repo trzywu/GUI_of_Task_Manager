@@ -1,0 +1,6 @@
+numpy==1.18.0
+pandas==0.25.3
+PySimpleGUI==4.13.1
+python-dateutil==2.8.1
+pytz==2019.3
+six==1.13.0
